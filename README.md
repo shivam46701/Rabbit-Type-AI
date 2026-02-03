@@ -8,8 +8,7 @@ A modern typing practice application inspired by MonkeyType, built with React an
 - **Customization**: Toggle punctuation and numbers
 - **AI Topic Search**: Generate passages about any topic
 - **Real-time Stats**: WPM, accuracy, and raw WPM tracking
-- **Smooth Cursor**: Beautiful typing cursor animation
-- **Keyboard Shortcuts**: Tab for new text, Esc to reset
+  
 
 ## Live Demo
 
