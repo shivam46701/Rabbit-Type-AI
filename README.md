@@ -12,7 +12,7 @@ A modern typing practice application inspired by MonkeyType, built with React an
 
 ## Live Demo
 
-[View Live Demo]( https://rabbit-type.vercel.app )
+[View Live Demo](https://rabbit-type-brcvzksl1-shivams-projects-593522df.vercel.app)
 
 ## Getting Started
 
